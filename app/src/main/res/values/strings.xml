@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="montant_pourboire">Montant pourboire</string>
+    <string name="arrondir_le_pourboire">Arrondir le pourboire?</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="bon_18">Bon (18%)</string>
+    <string name="incroyable_20">Incroyable (20%)</string>
+    <string name="co_t_de_service">Coût de service</string>
+    <string name="comment_tait_le_service">Comment était le service ?</string>
+</resources>
